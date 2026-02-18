@@ -1,8 +1,4 @@
-# Mozc4med benchmark dataset
-
-mozc4med-benchmark-dataset.txt
-
-# Mozc4med Examples Dataset
+# Mozc4med benchmark Dataset
 
 This repository contains a dataset of 164 example sentences used in the evaluation of Mozc4med, a medical-focused Japanese input method system based on Mozc. The dataset is publicly released to ensure transparency and reproducibility of the associated research paper.
 
